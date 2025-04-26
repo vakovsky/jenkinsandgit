@@ -1,6 +1,6 @@
 #include <iostream.h>;
 int main()
 {
-	cout << "Hello 123456";
+	cout << "Hello c++";
 	return 0;
 }
