@@ -32,6 +32,6 @@ int main() {
     // Извеждане на времето
     cout << "Time: " << (int)hour << ":" << (int)minute << ":" << (int)second << "." << (int)hundredths << endl;
 
-    getch();
+    //getch();
     return 0;
 }
