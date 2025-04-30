@@ -1,3 +1,3 @@
 begin
-  Writeln('Hello 123456');
+  Writeln('Hello Pascal');
 end.
