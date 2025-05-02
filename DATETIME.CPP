@@ -27,7 +27,7 @@ int main() {
     }
 
     // Извеждане на датата
-    cout << "Date: " << (int)day << "-" << (int)month << "-" << (int)year << endl;
+    cout << "Date: " (day < 10 ? "0" : "") << (int)day << "-" (month < 10 ? "0" : "") << (int)month << "-" << (int)year << endl;
 
     // Извеждане на времето
     cout << "Time: " << (int)hour << ":" << (int)minute << ":" << (int)second << "." << (int)hundredths << endl;
