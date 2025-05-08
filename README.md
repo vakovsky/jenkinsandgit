@@ -11,7 +11,7 @@
 ###### [-Image Sliding Puzzle](https://www.mooict.com/c-sharp-tutorial-make-an-image-slider-puzzle-game-in-windows-forms/)
 ###### [-Rock Paper Scissors](https://www.mooict.com/c-tutorial-create-a-rock-paper-scissors-game-in-100-lines-of-code/)
 ###### [-Picture Matching](https://www.mooict.com/c-tutorial-create-a-picture-matching-game-with-net-in-visual-studio/)
-###### https://www.mooict.com/c-tutorial-make-a-binary-calculator-game-in-windows-form-application-and-visual-studio/
+###### [-Binary Calculator](https://www.mooict.com/c-tutorial-make-a-binary-calculator-game-in-windows-form-application-and-visual-studio/)
 ###### https://www.mooict.com/c-tutorial-maths-quiz-game-version-2-in-windows-form-application-and-visual-studio/
 ###### https://www.mooict.com/c-tutorial-maths-quiz-game-in-windows-form-application-and-visual-studio-version-1/
 ###### https://www.mooict.com/wpf-c-tutorial-create-a-snakes-and-ladders-game-in-visual-studio/
