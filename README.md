@@ -2,7 +2,7 @@
 ###### [Butterfly](https://www.mooict.com/create-a-butterfly-catching-game-using-c-sharp-win-forms-visual-studio/)
 ###### [Spawn random game items in 2D](https://www.mooict.com/c-tutorial-how-to-spawn-random-game-items-in-2d-and-pick-them-up-using-collision-with-c-and-win-forms-in-visual-studio/)
 ###### [Street-Fighter](https://www.mooict.com/c-sharp-tutorial-create-a-street-fighter-game-demo-in-windows-forms-and-visual-studio/)
-###### https://www.mooict.com/c-tutorial-create-a-simple-punch-out-style-boxing-game-in-visual-studio/
+###### [Boxing](https://www.mooict.com/c-tutorial-create-a-simple-punch-out-style-boxing-game-in-visual-studio/)
 ###### https://www.mooict.com/c-tutorial-create-a-football-penalty-kick-game-in-visual-studio-with-win-forms/
 ###### https://www.mooict.com/c-tutorial-create-a-gravity-run-game-in-windows-form-and-visual-studio/
 ###### https://www.mooict.com/c-tutorial-make-a-multiple-level-game-in-windows-form-application/
